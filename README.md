@@ -20,6 +20,15 @@ Este es un proyecto de ejemplo que presenta una galería visual al estilo Pinter
 ├── styles.css # Estilos personalizados 
 └── README.md # Documentación del proyecto
 
+## 📸 Créditos de Imágenes
+
+Las imágenes utilizadas en este proyecto fueron tomadas de **[Pexels](https://www.pexels.com/)**, una plataforma de fotografías libres de derechos. Todo el contenido visual está destinado únicamente con fines demostrativos.
+
+---
+
+## 📌 Notas
+
+Este proyecto fue desarrollado como parte de una práctica de maquetación y diseño responsivo.  
 Perfecto para experimentar con layouts de tipo *masonry* sin necesidad de JavaScript.
 
 Diseñado por **Luis Martínez** 💻 
