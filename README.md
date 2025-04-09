@@ -1,4 +1,4 @@
-🐾 GalleyPaws - Luis Martínez
+## 🐾 GalleyPaws - Luis Martínez
 
 Este es un proyecto de ejemplo que presenta una galería visual al estilo Pinterest, enfocada en animales adorables como gatos y perros. Fue construida utilizando únicamente **HTML5** y **CSS3**, aprovechando **Grid** y **Flexbox** para lograr un diseño moderno, responsivo y atractivo.
 
